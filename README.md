@@ -207,7 +207,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Ahmed Bennani**  
 🎓 Simplon AI Bootcamp 2025  
-📧 ahmed.bennani@email.com  
+📧 ilhamelgharbi3@gmail.com  
 🔗 [LinkedIn](#) | [Portfolio](#)
 
 ---
